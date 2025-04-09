@@ -1,0 +1,18 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata: 
+    name: strikewire
+spec:
+    replicas:  1
+    selector: 
+        matchLabels: 
+            app: strikewire
+    template:
+        metadata: 
+            labels: 
+                app: strikewire
+        spec:
+            containers: 
+            -name: strikewire
+            image: codennate/strikewire:latest
+            command: ["./strikewire"]

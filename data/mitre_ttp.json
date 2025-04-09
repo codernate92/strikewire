@@ -1,0 +1,33 @@
+[
+    {
+      "id": "T1086",
+      "name": "PowerShell",
+      "description": "Adversaries may abuse PowerShell commands and scripts for execution."
+    },
+    {
+      "id": "T1059",
+      "name": "Command and Scripting Interpreter",
+      "description": "Adversaries may abuse command-line interfaces to execute arbitrary commands."
+    },
+    {
+      "id": "T1071",
+      "name": "Application Layer Protocol",
+      "description": "Adversaries may use application layer protocols to communicate with C2 servers."
+    },
+    {
+      "id": "T1566",
+      "name": "Phishing",
+      "description": "Adversaries may use phishing to gain access to victim systems."
+    },
+    {
+      "id": "T1110",
+      "name": "Brute Force",
+      "description": "Adversaries may attempt to gain access through brute force password attacks."
+    },
+    {
+      "id": "T1078",
+      "name": "Valid Accounts",
+      "description": "Adversaries may leverage valid accounts to maintain access."
+    }
+  ]
+  

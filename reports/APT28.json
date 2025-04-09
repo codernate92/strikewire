@@ -1,0 +1,19 @@
+{
+  "malware": [
+    "X-Agent",
+    "Sednit",
+    "FancyBearImplants"
+  ],
+  "infrastructure": [
+    "apt28.c2server.net",
+    "185.100.87.84"
+  ],
+  "ttps": [
+    "T1086",
+    "T1059",
+    "T1071"
+  ],
+  "reports": [
+    "https://www.mandiant.com/resources/apt28-report"
+  ]
+}
