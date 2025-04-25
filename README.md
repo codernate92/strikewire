@@ -9,7 +9,7 @@ Drop a name like `APT28` or `Lapsus$` — get back the full threat profile:
 ### 🛠 Built With
 - Go (CLI engine)
 - Python/FastAPI (optional backend)
-- Docker/Kubernetes-ready
+- Docker/Kubernetes
 
 ### 🧠 Coming Soon
 - Real-time threat enrichment
